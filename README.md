@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** and **Automation Specialist** with a passion for 
 - **Automation Platform:** Make.com, Google Apps Script, Excel Macro
 
 ## 🚀 Projects
-- **[Personal Portfolio](https://jlpasto-portfolio.vercel.app/)
+- **[Personal Portfolio](https://jlpasto-portfolio.vercel.app/):**
 - **[OmniChannel Communications App](https://github.com/jlpasto/omnichannel-communication-app):** Unified platform for managing multi-channel communications.
 - **[Invoice Generator](https://github.com/jlpasto/product-quotation-using-python):** Python-based tool for quick product quotations and invoicing.
 - **[Social Media Content Automation](https://jlpasto-portfolio.vercel.app/work/Social-Media-Automation):** Automated content creation with Make.com and AI.
