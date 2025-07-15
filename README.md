@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jhon Loyd Pastorin 👋
 
-<!--
-**jlpasto/jlpasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** and **Automation Specialist** with a passion for automating repetitive tasks and leveraging AI to create seamless solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, Java, VB.net
+- **Frameworks/Libraries:** Node.js, React.js, HTML, CSS, Tailwind
+- **Databases:** MySQL, PostgreSQL, Google Sheet
+- **Automation Platform:** Make.com, Google Apps Script, Excel Macro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Personal Portfolio](https://jlpasto-portfolio.vercel.app/)
+- **[OmniChannel Communications App](https://github.com/jlpasto/omnichannel-communication-app):** Unified platform for managing multi-channel communications.
+- **[Invoice Generator](https://github.com/jlpasto/product-quotation-using-python):** Python-based tool for quick product quotations and invoicing.
+- **[Social Media Content Automation](https://jlpasto-portfolio.vercel.app/work/Social-Media-Automation):** Automated content creation with Make.com and AI.
+
+## 🌟 More About Me
+- I love exploring automation, especially with AI and platforms like Make.com.
+- When I’m not coding, you’ll find me playing badminton or volleyball!
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/jhon-loyd-pastorin-a84000107/)
+- [Email](mailto:jhonloydpastorin.03@gmail.com)
+- [Personal Portfolio](https://jlpasto-portfolio.vercel.app/)
+
+---
