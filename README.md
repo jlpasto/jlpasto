@@ -20,6 +20,7 @@ I'm a **Full Stack Developer** and **Automation Specialist** with a passion for 
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jhon-loyd-pastorin-a84000107/)
+- [Upwork](https://www.upwork.com/freelancers/~01b3b27b15e4c94e0e)
 - [Email](mailto:jhonloydpastorin.03@gmail.com)
 - [Personal Portfolio](https://jlpasto-portfolio.vercel.app/)
 
