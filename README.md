@@ -20,7 +20,7 @@ I'm a **Full Stack Developer** and **Automation Specialist** with a passion for 
 - **Microsoft Certified: AI Fundamentals (AI-900)**
   Certification number: 6A40CB-EAPA4C
 - **Make.com Intermediate**
-  [View certification link](https://www.credly.com/badges/b008884c-6d19-4235-a024-62b023b1d9e9/public_url)
+- [View certification link](https://www.credly.com/badges/b008884c-6d19-4235-a024-62b023b1d9e9/public_url)
 
 ## 🌟 More About Me
 - I love exploring automation, especially with AI and platforms like Make.com.
