@@ -14,6 +14,12 @@ I'm a **Full Stack Developer** and **Automation Specialist** with a passion for 
 - **[Invoice Generator](https://github.com/jlpasto/product-quotation-using-python):** Python-based tool for quick product quotations and invoicing.
 - **[Social Media Content Automation](https://jlpasto-portfolio.vercel.app/work/Social-Media-Automation):** Automated content creation with Make.com and AI.
 
+## 📜 Certifications
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+  Certification number: I283-6347
+- **Microsoft Certified: AI Fundamentals (AI-900)**
+  Certification number: 6A40CB-EAPA4C
+
 ## 🌟 More About Me
 - I love exploring automation, especially with AI and platforms like Make.com.
 - When I’m not coding, you’ll find me playing badminton or volleyball!
