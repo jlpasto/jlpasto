@@ -6,7 +6,7 @@ I'm a **Full Stack Developer** and **Automation Specialist** with a passion for 
 - **Languages:** Python, JavaScript, Java, VB.net
 - **Frameworks/Libraries:** Node.js, React.js, HTML, CSS, Tailwind
 - **Databases:** MySQL, PostgreSQL, Google Sheet
-- **Automation Platform:** Make.com, Google Apps Script, Excel Macro
+- **Automation Platform:** Make.com, N8N, Google Apps Script, Excel Macro
 
 ## 🚀 Projects Highlight
 - **[Personal Portfolio](https://jlpasto-portfolio.vercel.app/all):** Collection and documentation of my notable works
