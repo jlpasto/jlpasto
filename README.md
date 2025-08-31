@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** and **Automation Specialist** with a passion for 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, Java, VB.net
 - **Frameworks/Libraries:** Node.js, React.js, HTML, CSS, Tailwind
-- **Databases:** MySQL, PostgreSQL, Google Sheet
+- **Databases:** MySQL, PostgreSQL, Supabase, Google Sheet
 - **Automation Platform:** Make.com, N8N, Google Apps Script, Excel Macro
 
 ## 🚀 Projects Highlight
