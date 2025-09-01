@@ -1,5 +1,3 @@
----
-
 # Hi, I'm Jhon Loyd Pastorin 👋
 
 I'm a **Full Stack Developer** and **Automation Specialist** with a passion for automating repetitive tasks and leveraging AI to create seamless solutions.
@@ -34,7 +32,7 @@ I offer a range of professional services to help you automate tasks, build power
 ## 🚀 Projects Highlight
 - **[Personal Portfolio](https://jlpasto-portfolio.vercel.app/all):** Collection and documentation of my notable works
 - **[OmniChannel Communications App](https://github.com/jlpasto/omnichannel-communication-app):** Unified platform for managing multi-channel communications.
-- **[The Colony KDT website](https://thecolonykdt.com):** I built the website for The Colony KDT - a specialized business operations and strategic support company that operates on a unique "hive" model.
+- **[The Colony KDT website](https://thecolonykdt.com):** I built the website of The Colony KDT - a specialized business operations and strategic support company that operates on a unique "hive" model.
 - **[Invoice Generator](https://github.com/jlpasto/product-quotation-using-python):** Python-based tool for quick product quotations and invoicing.
 - **[Social Media Content Automation](https://jlpasto-portfolio.vercel.app/work/Social-Media-Automation):** Automated content creation with Make.com and AI.
 
