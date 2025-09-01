@@ -1,5 +1,3 @@
-No problem! Here is your updated README.md with the new "Services" section integrated. The new section has been placed strategically to highlight your professional offerings right after your core skills and before your project highlights. This helps potential collaborators or employers quickly see what you can do for them.
-
 ---
 
 # Hi, I'm Jhon Loyd Pastorin 👋
