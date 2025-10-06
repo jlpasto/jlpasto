@@ -18,6 +18,11 @@ I offer a range of professional services to help you automate tasks, build power
 * **Website Development:** I can create **responsive**, **user-friendly**, and **high-performance** websites tailored to your specific needs, from personal portfolios to complex business sites.
 * **Landing Page Design:** Need to capture leads or promote a product? I design and build **visually appealing** and **high-converting** landing pages that drive results.
 
+  
+### 📊 Dashboard Creation & Data Visualization
+* **Dashboard Design** (Looker Studio & Power BI): I build interactive, insightful, and visually compelling dashboards that turn raw data into meaningful stories. Whether you need to track sales, marketing performance, or operational KPIs, I’ll design dashboards that help you make smarter, data-driven decisions.
+
+
 ### 🤖 Automation & Integration
 * **Web Scraping:** I develop custom scrapers to **efficiently extract** data from websites, providing valuable information for market research, data analysis, or content aggregation.
 * **N8n & Make.com Automation:** I build **complex workflows** and automated solutions using no-code/low-code platforms like **n8n** and **Make.com** to connect various apps and services.
